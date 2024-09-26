@@ -1,0 +1,6 @@
+export interface onCalculate {
+    initialInvestment: number, 
+        duration: number, 
+        expectedReturn: number, 
+        annualInvestment: number
+}
